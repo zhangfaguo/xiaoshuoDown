@@ -1,0 +1,10 @@
+E:\Project\Git\XiaShu\XiaShu\bin\Debug\XiaShu.exe.config
+E:\Project\Git\XiaShu\XiaShu\bin\Debug\XiaShu.exe
+E:\Project\Git\XiaShu\XiaShu\bin\Debug\XiaShu.pdb
+E:\Project\Git\XiaShu\XiaShu\obj\Debug\XiaShu.csprojAssemblyReference.cache
+E:\Project\Git\XiaShu\XiaShu\obj\Debug\XiaShu.Form1.resources
+E:\Project\Git\XiaShu\XiaShu\obj\Debug\XiaShu.Properties.Resources.resources
+E:\Project\Git\XiaShu\XiaShu\obj\Debug\XiaShu.csproj.GenerateResource.cache
+E:\Project\Git\XiaShu\XiaShu\obj\Debug\XiaShu.csproj.CoreCompileInputs.cache
+E:\Project\Git\XiaShu\XiaShu\obj\Debug\XiaShu.exe
+E:\Project\Git\XiaShu\XiaShu\obj\Debug\XiaShu.pdb
